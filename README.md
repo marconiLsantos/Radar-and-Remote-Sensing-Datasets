@@ -15,6 +15,7 @@ A ferramenta é um sistema inteligente baseado em aprendizado de máquina capaz 
 Para utilizar basta seguir os passos:
 - Acesse através do link: [https://notebooklm.google.com/notebook/73ee6e5f-999d-472d-804e-3c1221684ed9]
 - Ao acessar basta digitar sua dúvida ou solicitação de forma clara e objetiva.
+- Para mais informações acesse o [Mini Guia](mini_guia.md)
   
 ## 🤝 Como Contribuir
 Passos para contribuir com o projeto
